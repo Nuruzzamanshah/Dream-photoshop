@@ -1,8 +1,10 @@
 import React, { useState } from 'react';
 import { Carousel } from 'react-bootstrap';
-import banner1 from '../../../images/banner/banner1.jpg'
-import banner2 from '../../../images/banner/banner2.jpg'
-import banner3 from '../../../images/banner/banner3.jpg'
+import './Banner.css'
+import slide1 from '../../../images/banner/slide1.jpg'
+import slide2 from '../../../images/banner/slide2.jpg'
+import slide3 from '../../../images/banner/slide3.jpg'
+
 
 const Banner = () => {
     const [index, setIndex] = useState(0);
@@ -13,20 +15,20 @@ const Banner = () => {
     return (
         <Carousel activeIndex={index} onSelect={handleSelect}>
       <Carousel.Item>
-        <img
-          className="d-block w-100"
-          src={banner1}
+        <img 
+          className="d-block images"
+          src={slide1}
           alt="First slide"
         />
         <Carousel.Caption>
-          <h3>First slide label</h3>
-          <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+          <h1>Wedding in France</h1>
+          <p>DESTINATION PHOTOGRAPHER</p>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
         <img
-          className="d-block w-100"
-          src={banner2}
+          className="d-block images "
+          src={slide2}
           alt="Second slide"
         />
 
@@ -37,8 +39,8 @@ const Banner = () => {
       </Carousel.Item>
       <Carousel.Item>
         <img
-          className="d-block w-100"
-          src={banner3}
+          className="d-block images"
+          src={slide3}
           alt="Third slide"
         />
 
