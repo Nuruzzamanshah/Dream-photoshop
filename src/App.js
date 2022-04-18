@@ -9,8 +9,8 @@ import Footer from './Pages/Shared/Footer/Footer';
 import Header from './Pages/Shared/Header/Header';
 import NotFound from './Pages/Shared/NotFound/NotFound';
 import RequireAuth from './Pages/Login/RequireAuth/RequireAuth';
-// import RequireAuth from './Pages/Login/RequireAuth/RequireAuth';
 import Checkout from './Pages/Checkout/Checkout/Checkout';
+
 
 
 function App() {

@@ -43,8 +43,7 @@ const Footer = () => {
                             <div className="footer-logo">
                             </div>
                             <div className="footer-text">
-                                <p>Lorem ipsum dolor sit amet, consec tetur adipisicing elit, sed do eiusmod tempor incididuntut consec tetur adipisicing
-                                elit,Lorem ipsum dolor sit amet.</p>
+                                <p>Everyone wants to keep their memorable day as a photo. If it is a wedding and engagement ceremony, then there is no space to talk about it.</p>
                             </div>
                             <div className="footer-social-icon">
                                 <span>Follow us</span>
@@ -81,7 +80,7 @@ const Footer = () => {
                             <div className="subscribe-form">
                                 <form action="#">
                                     <input type="text" placeholder="Email Address"/>
-                                    <button>Send Mail</button>
+                                    {/* <button>Send Mail</button> */}
                                 </form>
                             </div>
                         </div>
