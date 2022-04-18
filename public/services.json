@@ -1,44 +1,38 @@
 [
     {
         "id": 1,
-        "name": "ENGINE DIAGNOSTIC",
-        "price": "300",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "name": "School photography",
+        "description": "Beautifully photographed school girls and boys are beautifully edited and photographed anywhere!!",
         "img": "https://matchthemes.com/demowp/fotonia/wp-content/uploads/gal-5-02-600x600.jpg"
     },
     {
         "id": 2,
-        "name": "WHEEL ALIGNMENT",
-        "price": "100",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "name": "Birthday party photography",
+        "description": "Very nice birthday party pics are beautifully edited and photographed anywhere!!",
         "img": "https://matchthemes.com/demowp/fotonia/wp-content/uploads/gal-5-01-600x600.jpg"
     },
     {
         "id": 3,
-        "name": "OIL CHANGING",
-        "price": "150",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "name": "Wedding festivities",
+        "description": "Pictures of beautiful wedding ceremonies are beautifully edited and photographed anywhere!!",
         "img": "https://matchthemes.com/demowp/fotonia/wp-content/uploads/gal-5-07-600x600.jpg"
     },
     {
         "id": 4,
-        "name": "BRAKE REPARING",
-        "price": "180",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "name": "Sport photography",
+        "description": "Sports pictures are taken in a very beautiful way, beautifully edited and taken anywhere!!",
         "img": "https://matchthemes.com/demowp/fotonia/wp-content/uploads/gal-5-10-600x600.jpg"
     },
     {
         "id": 5,
-        "name": "WASH AND GLASSING",
-        "price": "100",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "name": "Nature is photographed",
+        "description": "Nature is photographed in a very beautiful way, beautifully edited and photographed anywhere!!",
         "img": "https://matchthemes.com/demowp/fotonia/wp-content/uploads/gal-5-04-600x600.jpg"
     },
     {
         "id": 6,
-        "name": "COMPLETE ANALYSIS",
-        "price": "300",
-        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa",
+        "name": "Pictures of the ceremony",
+        "description": "The pictures of the event are taken in a very beautiful way, beautifully edited and the pictures are taken anywhere!!",
         "img": "https://matchthemes.com/demowp/fotonia/wp-content/uploads/gal-5-06-600x600.jpg"
     }
 ]

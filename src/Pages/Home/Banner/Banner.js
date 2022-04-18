@@ -4,6 +4,7 @@ import './Banner.css'
 import slide1 from '../../../images/banner/slide1.jpg'
 import slide2 from '../../../images/banner/slide2.jpg'
 import slide3 from '../../../images/banner/slide3.jpg'
+import slide4 from '../../../images/banner/slide4.jpg'
 
 
 const Banner = () => {
@@ -17,7 +18,7 @@ const Banner = () => {
       <Carousel.Item>
         <img 
           className="d-block images"
-          src={slide1}
+          src={slide4}
           alt="First slide"
         />
         <Carousel.Caption>
